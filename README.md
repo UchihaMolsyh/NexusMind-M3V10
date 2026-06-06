@@ -181,7 +181,7 @@ SCOUT_INTERVAL_MINUTES = 30     # How often to check for optimizations
 
 ## 🗺️ Future Roadmap
 * **NexusMind M3V10** (Current version): Active deployment with stable tool routers and multi-profile GGUF execution options.
-* **NexusMind M4V1.0.0** (Next major milestone): Planned architecture revision scheduled for release around October 2026 to February 2027. This cycle will focus on deeper tool optimization, structural framework shifts, and native configuration upgrades.
+* **NexusMind M4V1.0.0(Codename:'Project Aegis')** (Next major milestone): Planned architecture revision scheduled for release around October 2026 to February 2027. This cycle will focus on deeper tool optimization, structural framework shifts, and native configuration upgrades.
 
 ---
 
